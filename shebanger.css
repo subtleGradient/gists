@@ -26,3 +26,26 @@ h1 {
 code {
   color: #7dd3fc;
 }
+
+.shebanger-browser {
+  margin-top: 2rem;
+  border: 1px solid rgba(215, 255, 155, 0.35);
+  border-radius: 1rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.shebanger-browser h2 {
+  margin: 0 0 0.75rem;
+}
+
+.shebanger-browser dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.4rem 0.8rem;
+}
+
+.shebanger-browser dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}

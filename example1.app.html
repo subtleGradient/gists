@@ -4,6 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>example1 shebanger</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/subtleGradient/gists@x/shebanger.css">
+<script type="module" src="https://cdn.jsdelivr.net/gh/subtleGradient/gists@x/shebanger.mjs"></script>
 
 <main>
   <h1>example1.app.html</h1>
@@ -17,5 +18,9 @@
   <p>
     The stylesheet is a normal static link to <code>shebanger.css</code> through
     jsDelivr, so Spotlight can style the preview without JavaScript.
+  </p>
+  <p>
+    In a browser, <code>shebanger.mjs</code> loads as a normal ES module and
+    adds a browser-mode diagnostics panel.
   </p>
 </main>
