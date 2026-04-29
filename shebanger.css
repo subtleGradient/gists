@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background: #08111f;
+  color: #d7ff9b;
+  font: 0/0 ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+main {
+  box-sizing: border-box;
+  min-height: 100vh;
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: clamp(2rem, 8vw, 5rem) 1rem;
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  line-height: 1.55;
+}
+
+h1 {
+  margin: 0 0 1rem;
+  color: #f8ffe8;
+  font-size: clamp(2.3rem, 8vw, 5rem);
+  line-height: 0.9;
+  letter-spacing: -0.06em;
+}
+
+code {
+  color: #7dd3fc;
+}
