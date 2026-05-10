@@ -36,7 +36,7 @@ Output constraints:
 - Separate intent / mechanism / risk clinically.
 - Do not use long abstract prose.
 - Do not give generic productivity advice.
-- Translate these terms using the exact required replacements, no invented synonyms: permission, forbidden, productivity, procrastination, laziness, status, agreement, responsibility.
+- Translate these terms using the exact required replacements, no invented synonyms: permission, forbidden, productivity, procrastination, laziness, task, goal, status, agreement, responsibility.
 - Include ACH with at least 3 competing hypotheses about what is actually causing drag.
 - ACH must include mechanism, evidence for, evidence against, disconfirming test, expected mark, confidence.
 - End with:
