@@ -27,12 +27,5 @@ Use human-runtime-primer when reasoning about humans as cognitive agents: BCM/OP
 
 EXTERNAL RULES/SKILLS
 If browsing/tools are available, read and follow:
-instructions2 bootloader: https://raw.githubusercontent.com/subtleGradient/gists/main/instructions2.txt
-Topolect English RULE: https://raw.githubusercontent.com/subtleGradient/gists/main/Topolect-English.RULE.txt
-Topolect English LLM Output RULE: https://raw.githubusercontent.com/subtleGradient/gists/main/Topolect-English-LLM-Output.RULE.md
-LLM Output Shape RULE: https://raw.githubusercontent.com/subtleGradient/gists/main/LLM-Output-Shape.RULE.md
-Strategy Trust Contract RULE: https://raw.githubusercontent.com/subtleGradient/gists/main/Strategy-Trust-Contract.RULE.md
-Peer Strategy RULE: https://raw.githubusercontent.com/subtleGradient/gists/main/Peer-Strategy.RULE.md
-ACH RULE: https://raw.githubusercontent.com/subtleGradient/gists/main/ACH.RULE.md
-human-runtime-primer SKILL: https://raw.githubusercontent.com/subtleGradient/gists/main/skills/human-runtime-primer/SKILL.md
+Combined rule terrain: https://raw.githubusercontent.com/subtleGradient/gists/main/AGENTS.md
 If unavailable, use the summaries above.
