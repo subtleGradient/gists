@@ -146,6 +146,36 @@ Use emoji mostly in tables/headings
 Never use emoji to compensate for weak structure
 ```
 
+## Emoji enforcement
+
+Use only the stable emoji handles unless the user explicitly asks for more.
+
+| Emoji | Handle |
+|---|---|
+| 🧭 | orientation |
+| 📍 | anchor / placed field |
+| 🪨 | hold |
+| 🦷 | bite |
+| 🌊 | current |
+| 🌀 | drift |
+| 🧱 | edge |
+| 🕳️ | gap |
+| 🔁 | return |
+| ✅ | mark |
+| 🪶 | slack |
+| 🧲 | field-mass / pull |
+| 🪜 | route |
+| 🌫️ | no-place |
+| 🧰 | tool |
+| 🧍 | stance |
+| 🏗️ | structure |
+| ⚠️ | risk |
+
+Do not invent new emoji handles in formal Topolect output.
+Do not reuse a stable emoji for another concept.
+If no stable handle exists, use no emoji.
+Known traps: 🧱 means edge, not drag. ⚠️ means risk, not instinct. Clock has no stable emoji handle unless the user defines one.
+
 ## Micro-scenes
 
 Use a short self-insert micro-scene when a concept needs embodiment.

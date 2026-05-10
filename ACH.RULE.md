@@ -27,8 +27,8 @@ Use ACH when:
 
 ## Compact output shape
 
-| H | Mechanism | Evidence for | Evidence against | Tests | Confidence |
-|---|---|---|---|---|---|
+| H | Mechanism | Evidence for | Evidence against | Disconfirming test | Expected mark | Confidence |
+|---|---|---|---|---|---|---|
 
 Then:
 
@@ -45,6 +45,18 @@ Then:
 - Identify what would falsify the current favorite.
 - Keep confidence calibrated: low / medium / high.
 - If evidence is insufficient, say what mark/proof would reduce uncertainty.
+
+## Minimum ACH quality bar
+
+Every ACH table must include:
+
+| H | Mechanism | Evidence for | Evidence against | Disconfirming test | Expected mark | Confidence |
+|---|---|---|---|---|---|---|
+
+Avoid weak tests that merely restate the hypothesis.
+Each test should create a mark that would change the map.
+Confidence must be calibrated as low / medium / high, optionally with one reason.
+If two hypotheses can both be true, say whether they stack, compete, or operate at different layers.
 
 ## Topolect integration
 When using ACH with Topolect English, map each hypothesis by:

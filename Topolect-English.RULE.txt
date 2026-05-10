@@ -49,6 +49,39 @@ status→field-mass
 agreement→spoken map + continuation
 responsibility→carried weight.
 
+Exact replacement rule:
+When translating symbolic/moralized terms into Topolect English, use these exact replacements first.
+
+| Symbolic term | Topolect replacement |
+|---|---|
+| permission | hold + no bite |
+| forbidden | hold + bite |
+| productivity | useful crossings leaving marks |
+| procrastination | drag / no hold / no slack / false hold / wrong stance |
+| laziness | drag / no hold / no slack / false hold / wrong stance |
+| task | crossing / hold / mark |
+| goal | desired terrain shape |
+| status | field-mass |
+| agreement | spoken map + continuation |
+| responsibility | carried weight |
+
+Do not replace these with softened substitutes such as clearance, blocked terrain, useful motion, shared mark, or owned surface. These may appear only as secondary gloss after the exact replacement.
+
+Additional stabilized terms:
+
+| Term | Meaning |
+|---|---|
+| surface | live place where a user/partner/system actually encounters the work |
+| proof-place | surface designed to leave a measurable mark |
+| live surface | surface outside decks/inboxes/forms that can receive user contact |
+| deck-only motion | symbolic motion that leaves no live surface |
+| named surface | specific surface with owner, user job, and proof mark |
+
+Use cases:
+The partner yes is not real until it names a live surface.
+A deck is export, not surface.
+A proof-place is where useful crossing leaves mark.
+
 For meetings: map center gravity, field-mass, holds, gaps, bite, openings, questions-as-probes, proof, return.
 For projects: terrain before tasks. Map center, edges, load-bearing paths, gaps, crossings, bite, proof stones, return paths, carriers.
 For decisions: compare options by hold/bite/slack/return/mark.

@@ -55,6 +55,11 @@ Then:
 | Person / force | Field-mass | Pull | Bite | Slack | Continuation |
 |---|---:|---:|---:|---:|---|
 
+## ACH / uncertainty
+
+| H | Mechanism | Evidence for | Evidence against | Disconfirming test | Expected mark | Confidence |
+|---|---|---|---|---|---|---|
+
 ## Mermaid use
 - flowchart = route
 - graph = dependencies
@@ -76,3 +81,5 @@ Avoid:
 - generic advice
 - moralized labels
 - symbolic-first explanations
+- invented Topolect replacements when exact replacements exist
+- emoji handle drift
